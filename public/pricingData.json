@@ -18,6 +18,7 @@
     "id": "plan_002",
     "name": "Standard Plan",
     "price": "$2499/year",
+    "popular":true,
     "description": "A balanced fitness package for regular members who want guided training, group classes, and extra fitness benefits.",
     "features": [
       "Full Gym Access",
