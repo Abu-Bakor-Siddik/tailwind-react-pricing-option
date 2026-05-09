@@ -1,0 +1,51 @@
+[
+  {
+    "id": "plan_001",
+    "name": "Basic Plan",
+    "price": "$999/year",
+    "description": "Perfect for beginners who want to start their fitness journey with essential gym facilities and basic workout support.",
+    "features": [
+      "Full Gym Access",
+      "Cardio Training",
+      "Locker Facility",
+      "Free Fitness Assessment",
+      "Access to Strength Area",
+      "Free WiFi",
+      "Water Facility"
+    ]
+  },
+  {
+    "id": "plan_002",
+    "name": "Standard Plan",
+    "price": "$2499/year",
+    "description": "A balanced fitness package for regular members who want guided training, group classes, and extra fitness benefits.",
+    "features": [
+      "Full Gym Access",
+      "Cardio + Strength Training",
+      "Locker Facility",
+      "Group Workout Classes",
+      "Diet Consultation",
+      "Body Measurement Tracking",
+      "Steam & Shower Access",
+      "Free Gym T-Shirt"
+    ]
+  },
+  {
+    "id": "plan_003",
+    "name": "Premium Plan",
+    "price": "$4999/year",
+    "description": "Designed for serious fitness enthusiasts who want complete professional support, premium facilities, and personalized training.",
+    "features": [
+      "24/7 Unlimited Gym Access",
+      "Dedicated Personal Trainer",
+      "Custom Workout Plan",
+      "Advanced Diet Plan",
+      "VIP Locker Facility",
+      "Steam & Sauna Access",
+      "Supplement Guidance",
+      "Priority Support",
+      "Monthly Fitness Review",
+      "Free Gym Merchandise"
+    ]
+  }
+]
